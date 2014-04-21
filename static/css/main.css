@@ -4,7 +4,7 @@ a:hover      { color: #6D4100; }
 .box         { width: 740px; margin: 30px auto; }
 h2, h3, h4   { font-family: 'Marcellus', serif; font-weight: normal; color: #222;}
 h1           { margin: 0 0 30px 0; background: no-repeat center;
-               height: 165px; }
+                }
 h1 span      { display: none; }
 .banner      { font-size: 75px; margin: 30px 0 5px 0; 
                font-family: 'The Girl Next Door', cursive;
@@ -89,15 +89,16 @@ div.navigation {
 .post-info abbr {font-size: 15px; color: #555; font-style: italic;}
 article .archive{margin-top: 10px; margin-bottom: 10px;}
 
-.entry-content{margin-top: 50px; margin-bottom: 40px;}
+.entry-content{margin-top: 15px; margin-bottom: 10px;}
 
 h1.archive-entry-title,
 .entry-title,
 h1.archive-entry-title a{font-family: 'Marcellus', serif; font-weight: normal;
                        font-size: 40px; text-decoration: none;
-                       margin: 15px 0 60px 0;height: 0;}
+		       margin: 15px 0 0 0; }
 
-.entry-title {color: #222; font-size: 50px; margin-bottom: 70px}
+.entry-title {color: #222;
+font-size: 50px; }
 
 .entry-content h2{margin: 40px 0 5px 0; color: #004B6B;}
 
